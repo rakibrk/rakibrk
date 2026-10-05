@@ -2,9 +2,9 @@
 
 ### Research-oriented Software Engineer | AI/ML | Mobile & Edge Intelligence
 
-I am a Senior Software Engineer at **Samsung R&D Institute Bangladesh Ltd.** with a background in Computer Science and Engineering and a growing research focus on **intelligent mobile and edge systems**.
+I am a Senior Software Engineer at **Samsung R&D Institute Bangladesh Ltd.** with a background in Computer Science and Engineering and a research focus on **intelligent mobile and edge systems**.
 
-My research interests lie at the intersection of **on-device AI, mobile and wearable sensing, computational photography, human–computer interaction, and IoT/edge intelligence**. My academic foundation includes a B.Sc. in Computer Science & Engineering from East West University, where I graduated with a **CGPA of 3.94/4.00** and completed research on **Bengali speech recognition using recurrent neural networks**.
+My research interests lie at the intersection of **on-device AI, mobile and wearable sensing, computational photography, human–computer interaction, and IoT/edge intelligence**. I earned my B.Sc. in Computer Science & Engineering from East West University with a **CGPA of 3.94/4.00**, where I completed research on **Bengali speech recognition using recurrent neural networks**.
 
 My broader research goal is to investigate how sensing, machine intelligence, and mobile/edge computing can work together to create **adaptive, context-aware, and human-centered intelligent systems**.
 
@@ -107,9 +107,9 @@ Context-aware systems connecting people, devices, and AI
 
 ---
 
-## 🧪 Research Portfolio
+## 🧪 Planned Research Portfolio
 
-The repositories below form the planned public research portfolio. Each project will emphasize **research questions, methodology, experiments, results, limitations, and future work** rather than simply application code.
+The repositories below represent the research directions I plan to develop publicly. Each project will emphasize **research questions, methodology, experiments, results, limitations, and future work** rather than simply application code.
 
 | Research Area | Repository | Focus |
 |---|---|---|
@@ -160,6 +160,20 @@ Research-oriented interests emerging from this experience include:
 
 ---
 
+## 🌱 Current Research Questions
+
+I am particularly interested in questions such as:
+
+- How can AI models perform effectively under the **compute, energy, and latency constraints of mobile devices**?
+- How can multimodal signals from smartphones and wearables improve **human activity and context understanding**?
+- How can intelligent interfaces adapt to **user context and device state** without compromising privacy?
+- How can computational photography and AI create richer **mobile imaging experiences from limited sensing**?
+- How can connected devices cooperate to form **distributed, context-aware edge intelligence**?
+
+These questions represent directions I am exploring through independent research, technical experimentation, and future research projects.
+
+---
+
 ## 🏆 Awards & Recognition
 
 - **Icon of the Month** — Samsung R&D Institute Bangladesh, May–June 2026
@@ -175,7 +189,7 @@ Research-oriented interests emerging from this experience include:
 ## 💻 Technical Foundation
 
 **AI / ML:**  
-Python · TensorFlow · PyTorch · Keras · Core ML · Create ML · RNN · LSTM · CNN · NLP · Speech Processing · Computer Vision · LLM / GenAI
+Python · PyTorch · TensorFlow · Core ML · Create ML · RNN · LSTM · CNN · NLP · Speech Processing · Computer Vision · LLM / GenAI
 
 **Mobile & Sensing:**  
 Swift · SwiftUI · UIKit · iOS · Android · Combine · ReactiveSwift · SwiftData · Core Bluetooth · Nearby Interaction · Multipeer Connectivity
@@ -188,33 +202,11 @@ Python · Swift · C++ · C · Java · MATLAB
 
 ---
 
-## 🌱 Current Research Questions
-
-I am particularly interested in questions such as:
-
-- How can AI models perform effectively under the **compute, energy, and latency constraints of mobile devices**?
-- How can multimodal signals from smartphones and wearables improve **human activity and context understanding**?
-- How can intelligent interfaces adapt to **user context and device state** without compromising privacy?
-- How can computational photography and AI create richer **mobile imaging experiences from limited sensing**?
-- How can connected devices cooperate to form **distributed, context-aware edge intelligence**?
-
-These questions represent directions I am exploring through independent research, technical experimentation, and future research projects.
-
----
-
 ## 🔗 Academic & Professional Profiles
 
 - **Google Scholar:** https://scholar.google.com/citations?user=Qr73p-cAAAAJ&hl=en
 - **LinkedIn:** https://www.linkedin.com/in/rakibrk
 - **GitHub:** https://github.com/rakibrk
-
----
-
-## 📬 Academic Interests
-
-I am interested in connecting with researchers, faculty members, and students working in:
-
-**AI/ML · Mobile Computing · Edge AI · IoT · HCI · Computer Vision · Speech/NLP · Wearable Computing**
 
 ---
 
