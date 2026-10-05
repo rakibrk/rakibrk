@@ -181,3 +181,46 @@ Python · TensorFlow · PyTorch · Keras · Core ML · Create ML · RNN · LSTM 
 Swift · SwiftUI · UIKit · iOS · Android · Combine · ReactiveSwift · SwiftData · Core Bluetooth · Nearby Interaction · Multipeer Connectivity
 
 **Systems & Cloud:**  
+Spring Boot · AWS · Docker · Serverless Architecture · RabbitMQ · MQTT
+
+**Programming:**  
+Python · Swift · C++ · C · Java · MATLAB
+
+---
+
+## 🌱 Current Research Questions
+
+I am particularly interested in questions such as:
+
+- How can AI models perform effectively under the **compute, energy, and latency constraints of mobile devices**?
+- How can multimodal signals from smartphones and wearables improve **human activity and context understanding**?
+- How can intelligent interfaces adapt to **user context and device state** without compromising privacy?
+- How can computational photography and AI create richer **mobile imaging experiences from limited sensing**?
+- How can connected devices cooperate to form **distributed, context-aware edge intelligence**?
+
+These questions represent directions I am exploring through independent research, technical experimentation, and future research projects.
+
+---
+
+## 🔗 Academic & Professional Profiles
+
+- **Google Scholar:** https://scholar.google.com/citations?user=Qr73p-cAAAAJ&hl=en
+- **LinkedIn:** https://www.linkedin.com/in/rakibrk
+- **GitHub:** https://github.com/rakibrk
+
+---
+
+## 📬 Academic Interests
+
+I am interested in connecting with researchers, faculty members, and students working in:
+
+**AI/ML · Mobile Computing · Edge AI · IoT · HCI · Computer Vision · Speech/NLP · Wearable Computing**
+
+---
+
+### Research Philosophy
+
+> **Research questions over buzzwords.**  
+> **Evidence over claims.**  
+> **Reproducible experiments over demos.**  
+> **Intelligent systems grounded in real-world interaction.**
